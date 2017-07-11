@@ -15,4 +15,7 @@ This is where the magic happens. A prompt is created with git status and node pa
 # user-aliases.cmd
 Some predefined aliases for directories, git and npm
 
+# font
+Anonymice Powerline font : https://github.com/powerline/fonts/blob/master/AnonymousPro/Anonymice%20Powerline.ttf
+
 
